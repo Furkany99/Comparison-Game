@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9d662f99f4921b044a686c2151621d6c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: The Bouquet List
+  fontNames:
+  - The Bouquet List
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 11ee3f8235d9ab142aefe3d055eee8f3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
